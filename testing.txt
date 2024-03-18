@@ -1,1 +1,1 @@
-DevOps is a CI/CD Pipeline
+test is a CI/CD Pipeline
